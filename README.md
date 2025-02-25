@@ -1,5 +1,5 @@
 
-<table border="1" cellpadding="0" cellspacing="0"  class="container" style="font-size: 10px; width: 50%;"> 
+<table border="1" cellpadding="0" cellspacing="0"  class="container" style="font-size: 10px;"> 
     <tr>
         <td style="text-align: left; padding: 2em;">
             <h1 style="font-family: Arial, sans-serif; margin: 0; padding: 0;">GuessWork</h1>
@@ -10,8 +10,8 @@
             <br/>
         </td>
     </tr>  
-    <tr>
-        <td valign="top" class="left-bar" style="padding: 2em; width: 20rem;"> 
+    <tr style="padding: 2em; width: 20rem;">
+        <td valign="top" class="left-bar" style="padding: 2em;"> 
             <a href="#" style="text-decoration: none; font-weight: bold;">Revisions</a>
             <h2 style="font-family: Arial, sans-serif;">Site Map</h2>
             <ul class="left-bar-list" style="padding-left: 2rem;">
