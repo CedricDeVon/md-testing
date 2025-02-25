@@ -58,11 +58,11 @@ Target: GW.010.001
             <table border="1" cellpadding="1" cellspacing="0" style="width: 100%;">
                 <thead>
                     <tr>
-                        <th>Revision Date</th>
-                        <th>Document Version</th>
+                        <th>Revision<br/>Date</th>
+                        <th>Document<br/>Version</th>
                         <th>Description</th>
-                        <th>Tracking Notes</th>
-                        <th>Approved By</th>
+                        <th>Tracking<br/>Notes</th>
+                        <th>Approved<br/>By</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -71,14 +71,14 @@ Target: GW.010.001
                         <td>v1.0.0</td>
                         <td>Initial Document Version</td>
                         <td>N/A</td>
-                        <td>Araneta, Vaughn Cedric L. <br/>Project Manager</td>
+                        <td>Araneta, Vaughn Cedric L.<br/>Project Manager</td>
                     </tr>
                     <tr>
                         <td>2025-02-26</td>
                         <td>v1.0.1</td>
                         <td>Fixed Styling Problem</td>
                         <td>N/A</td>
-                        <td>Araneta, Vaughn Cedric L. <br/>Project Manager</td>
+                        <td>Araneta, Vaughn Cedric L.<br/>Project Manager</td>
                     </tr>
                 </tbody>
             </table>
