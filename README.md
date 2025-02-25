@@ -72,9 +72,9 @@
                 </li>
             </ul>
         </td>
-        <td valign="top" class="right-bar" style="padding: 2em">
+        <td valign="top" class="right-bar" style="padding: 2em; width: 100%;">
             <h2 style="font-family: Arial, sans-serif;">Revisions</h2>
-            <table border="1" cellpadding="1" cellspacing="0" style="border-collapse: collapse; margin-top: 10px;">
+            <table border="1" cellpadding="1" cellspacing="0" style="border-collapse: collapse; margin-top: 10px;  width: 100%;">
                 <thead>
                     <tr>
                         <th style="padding: 1em; text-align: left;">Revision Date</th>
