@@ -1,5 +1,5 @@
 
-<table border="1" cellpadding="0" cellspacing="0"  class="container" style="font-size: 10px; 100rem;"> 
+<table border="1" cellpadding="0" cellspacing="0"  class="container" style="font-size: 10px; width: 100rem;"> 
     <tr>
         <td style="text-align: left; padding: 2em;">
             <h1 style="font-family: Arial, sans-serif; margin: 0; padding: 0;">GuessWork</h1>
