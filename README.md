@@ -65,6 +65,36 @@ Target: GW.010.001
                 </ul>
             </li>
         </td>
+        <td valign="top" class="right-bar" style="width: 30%; padding: 30px;">
+            <h2 style="font-family: Arial, sans-serif;">Revisions</h2>
+            <table border="1" cellpadding="1" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <thead>
+                    <tr>
+                        <th style="padding: 10px; text-align: left;">Revision Date</th>
+                        <th style="padding: 10px; text-align: left;">Document Version</th>
+                        <th style="padding: 10px; text-align: left;">Description</th>
+                        <th style="padding: 10px; text-align: left;">Tracking Notes</th>
+                        <th style="padding: 10px; text-align: left;">Approved By</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="padding: 10px; text-align: left;">2025-02-25</td>
+                        <td style="padding: 10px; text-align: left;">v1.0.0</td>
+                        <td style="padding: 10px; text-align: left;">Initial Document Version</td>
+                        <td style="padding: 10px; text-align: left;">N/A</td>
+                        <td style="padding: 10px; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 10px; text-align: left;">2025-02-26</td>
+                        <td style="padding: 10px; text-align: left;">v1.0.1</tds>
+                        <td style="padding: 10px; text-align: left;">Fixed Styling Problem</td>
+                        <td style="padding: 10px; text-align: left;">N/A</td>
+                        <td style="padding: 10px; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </td>
     </tr>
     <tr>
         <td colspan="2" align="center" style="text-align: center; padding: 10px;">
