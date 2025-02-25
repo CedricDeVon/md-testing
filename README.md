@@ -6,7 +6,7 @@ Target: GW.010.001
 <br/>
 <table border="1" cellpadding="0" cellspacing="0" style="width: 80%; font-size: 10px;"> 
     <tr>
-        <td valign="top" style="padding: 20px; width: 30%;"> 
+        <td valign="top" style="padding: 20px; width: 100%;"> 
             <p><a href="#" style="text-decoration: none; font-weight: bold;">Revisions</a></p>
             <h2 style="font-family: Arial, sans-serif;">Site Map</h2>
             <p><a href="docs/homepage.md" style="text-decoration: none; font-weight: bold;">Homepage</a></p>
