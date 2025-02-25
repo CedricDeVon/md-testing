@@ -58,11 +58,11 @@ Target: GW.010.001
             <table border="1" cellpadding="1" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <thead>
                     <tr>
-                        <th>Revision Date</th>
-                        <th>Document Version</th>
+                        <th>Revision <br/>Date</th>
+                        <th>Document <br/>Version</th>
                         <th>Description</th>
-                        <th>Tracking Notes</th>
-                        <th>Approved By</th>
+                        <th>Tracking <br/>Notes</th>
+                        <th>Approved <br/>By</th>
                     </tr>
                 </thead>
                 <tbody>
