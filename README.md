@@ -1,14 +1,14 @@
-<h1 style="font-family: Arial, sans-serif;">GuessWork</h1>
+<h1>GuessWork</h1>
 <br/>
-<p style="font-family: Arial, sans-serif;">
+<p>
 Target: GW.010.001
 </p>
 <br/>
-<table border="1" cellpadding="0" cellspacing="0" style="width: 80%; font-family: Arial, sans-serif;"> 
+<table cellpadding="0" cellspacing="0" style="width: 80%;"> 
     <tr>
         <td valign="top" style="width: 30%;"> 
             <p><a href="#">Revisions</a></p>
-            <h2 style="font-family: Arial, sans-serif;">Site Map</h2>
+            <h2>Site Map</h2>
             <p><a href="docs/homepage.md">Homepage</a></p>
             <p><a href="docs/network-status-dialog.md">Network Status Dialog</a></p>
             <span>Authentication</span>
@@ -55,7 +55,7 @@ Target: GW.010.001
         </td>
         <td valign="top" style="width: 70%;">
             <h2>Revisions</h2>
-            <table border="1" cellpadding="1" cellspacing="0" style="width: 100%;">
+            <table cellpadding="1" cellspacing="0" style="width: 100%;">
                 <thead>
                     <tr>
                         <th>Revision<br/>Date</th>
@@ -86,7 +86,7 @@ Target: GW.010.001
     </tr>
     <tr>
         <td colspan="2" align="center" style="text-align: center;">
-            <p style="font-family: Arial, sans-serif;">&copy; 2025 KnightVision</p>
+            <p>&copy; 2025 KnightVision</p>
         </td>
     </tr>
 </table>
