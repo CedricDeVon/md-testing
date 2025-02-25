@@ -87,7 +87,7 @@ Target: GW.010.001
                     </tr>
                     <tr>
                         <td style="padding: 10px; text-align: left;">2025-02-26</td>
-                        <td style="padding: 10px; text-align: left;">v1.0.1</tds>
+                        <td style="padding: 10px; text-align: left;">v1.0.1</td>
                         <td style="padding: 10px; text-align: left;">Fixed Styling Problem</td>
                         <td style="padding: 10px; text-align: left;">N/A</td>
                         <td style="padding: 10px; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
