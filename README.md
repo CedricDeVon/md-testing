@@ -1,7 +1,7 @@
 
 <table border="1" cellpadding="0" cellspacing="0"  class="container" style="border: 1px solid darkgray;"> 
   <tr class="header">
-    <td style="text-align: left; padding: 2em; border-bottom: 1px solid darkgray;">
+    <td style="width: 70%; text-align: left; padding: 2em; border-bottom: 1px solid darkgray;">
         <h1 style="font-family: Arial, sans-serif; margin: 0; padding: 0;">GuessWork</h1>
         <br/>
         <p class="target-version" style="font-family: Arial, sans-serif; font-weight: bold; margin: 0; padding: 0;">
