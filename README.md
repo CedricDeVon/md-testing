@@ -10,7 +10,7 @@
             <br/>
         </td>
     </tr>  
-    <tr style="padding: 2em; width: 20rem;">
+    <tr style="padding: 2em; width: 100%;">
         <td valign="top" class="left-bar" style="padding: 2em;"> 
             <a href="#" style="text-decoration: none; font-weight: bold;">Revisions</a>
             <h2 style="font-family: Arial, sans-serif;">Site Map</h2>
