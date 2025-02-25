@@ -1,10 +1,12 @@
-### GuessWork
-
+<h1 style="font-family: Arial, sans-serif; margin: 0; padding: 0;">GuessWork</h1>
+<br/>
+<p style="font-family: Arial, sans-serif; font-weight: bold; margin: 0; padding: 0;">
 Target: GW.010.001
-
+</p>
+<br/>
 <table border="1" cellpadding="0" cellspacing="0" style="width: 80%; font-size: 10px;"> 
     <tr>
-        <td valign="top" style="width: 70%; padding: 20px;"> 
+        <td valign="top" style="padding: 20px; width: 70%;"> 
             <p><a href="#" style="text-decoration: none; font-weight: bold;">Revisions</a></p>
             <h2 style="font-family: Arial, sans-serif;">Site Map</h2>
             <p><a href="docs/homepage.md" style="text-decoration: none; font-weight: bold;">Homepage</a></p>
@@ -51,31 +53,32 @@ Target: GW.010.001
                 <li><a href="docs/chess-clock/reset-settings-dialog.md" style="text-decoration: none; font-weight: bold;">Reset Settings Dialog</a></li>
             </ul>
         </td>
-        <td valign="top" class="right-bar" style="width: 30%; padding: 30px;">
+        <td valign="top" style="width: 30%; padding: 30px;">
+            <h2 style="font-family: Arial, sans-serif;">Revisions</h2>
             <table border="1" cellpadding="1" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <thead>
                     <tr>
-                        <th style="padding: 10px; text-align: left;">Revision Date</th>
-                        <th style="padding: 10px; text-align: left;">Document Version</th>
-                        <th style="padding: 10px; text-align: left;">Description</th>
-                        <th style="padding: 10px; text-align: left;">Tracking Notes</th>
-                        <th style="padding: 10px; text-align: left;">Approved By</th>
+                        <th>Revision Date</th>
+                        <th>Document Version</th>
+                        <th>Description</th>
+                        <th>Tracking Notes</th>
+                        <th>Approved By</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td style="padding: 10px; text-align: left;">2025-02-25</td>
-                        <td style="padding: 10px; text-align: left;">v1.0.0</td>
-                        <td style="padding: 10px; text-align: left;">Initial Document Version</td>
-                        <td style="padding: 10px; text-align: left;">N/A</td>
-                        <td style="padding: 10px; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
+                        <td>2025-02-25</td>
+                        <td>v1.0.0</td>
+                        <td>Initial Document Version</td>
+                        <td>N/A</td>
+                        <td>Araneta, Vaughn Cedric L. (Project Manager)</td>
                     </tr>
                     <tr>
-                        <td style="padding: 10px; text-align: left;">2025-02-26</td>
-                        <td style="padding: 10px; text-align: left;">v1.0.1</td>
-                        <td style="padding: 10px; text-align: left;">Fixed Styling Problem</td>
-                        <td style="padding: 10px; text-align: left;">N/A</td>
-                        <td style="padding: 10px; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
+                        <td>2025-02-26</td>
+                        <td>v1.0.1</td>
+                        <td>Fixed Styling Problem</td>
+                        <td>N/A</td>
+                        <td>Araneta, Vaughn Cedric L. (Project Manager)</td>
                     </tr>
                 </tbody>
             </table>
