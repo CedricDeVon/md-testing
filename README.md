@@ -1,9 +1,7 @@
-<h1 style="font-family: Arial, sans-serif; margin: 0; padding: 0;">GuessWork</h1>
-<br/>
-<p style="font-family: Arial, sans-serif; font-weight: bold; margin: 0; padding: 0;">
+### GuessWork
+
 Target: GW.010.001
-</p>
-<br/>
+
 <table border="1" cellpadding="0" cellspacing="0" style="width: 80%; font-size: 10px;"> 
     <tr>
         <td valign="top" style="width: 70%; padding: 20px;"> 
