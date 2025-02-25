@@ -1,5 +1,5 @@
 
-<table border="1" cellpadding="0" cellspacing="0"  class="container" style="font-size: 10px; width: 10rem;"> 
+<table border="1" cellpadding="0" cellspacing="0"  class="container" style="font-size: 10px; width: 50%;"> 
     <tr>
         <td style="text-align: left; padding: 2em;">
             <h1 style="font-family: Arial, sans-serif; margin: 0; padding: 0;">GuessWork</h1>
@@ -11,7 +11,7 @@
         </td>
     </tr>  
     <tr>
-        <td valign="top" class="left-bar" style="padding: 2em;"> 
+        <td valign="top" class="left-bar" style="padding: 2em; width: 50%;"> 
             <a href="#" style="text-decoration: none; font-weight: bold;">Revisions</a>
             <h2 style="font-family: Arial, sans-serif;">Site Map</h2>
             <ul class="left-bar-list" style="padding-left: 2rem;">
@@ -72,9 +72,9 @@
                 </li>
             </ul>
         </td>
-        <td valign="top" class="right-bar" style="padding: 2em; width: 100%;">
+        <td valign="top" class="right-bar" style="padding: 2em; width: 50%;">
             <h2 style="font-family: Arial, sans-serif;">Revisions</h2>
-            <table border="1" cellpadding="1" cellspacing="0" style="border-collapse: collapse; margin-top: 10px;  width: 10%;">
+            <table border="1" cellpadding="1" cellspacing="0" style="border-collapse: collapse; margin-top: 10px; width: 50%;">
                 <thead>
                     <tr>
                         <th style="padding: 1em; text-align: left;">Revision Date</th>
@@ -104,7 +104,7 @@
         </td>
     </tr>
     <tr>
-        <td colspan="2" align="center" class="footer" style="text-align: center; padding: 1em;">
+        <td colspan="2" align="center" class="footer" style="text-align: center; padding: 1em; width: 50%;">
             <p style="font-family: Arial, sans-serif;">&copy; 2025 KnightVision</p>
         </td>
     </tr>
