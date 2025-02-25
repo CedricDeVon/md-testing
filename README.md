@@ -2,7 +2,7 @@
 
 <table border="1" cellpadding="0" cellspacing="0"  class="container" style="width: 80%; font-size: 10px;"> 
     <tr>
-        <td style="text-align: left; padding: 2em; border-bottom: 1px solid darkgray; width: 70%;">
+        <td style="text-align: left; padding: 2em; border-bottom: 1px solid darkgray;">
             <h1 style="font-family: Arial, sans-serif; margin: 0; padding: 0;">GuessWork</h1>
             <br/>
             <p class="target-version" style="font-family: Arial, sans-serif; font-weight: bold; margin: 0; padding: 0;">
@@ -73,7 +73,7 @@
                 </li>
             </ul>
         </td>
-        <td valign="top" class="right-bar" style="width: 30%; padding: 2em">
+        <td valign="top" class="right-bar" style="padding: 2em">
             <h2 style="font-family: Arial, sans-serif;">Revisions</h2>
             <table style="width: 50%; border-collapse: collapse; margin-top: 10px;">
                 <thead>
