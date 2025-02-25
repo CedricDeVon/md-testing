@@ -11,7 +11,7 @@
         </td>
     </tr>  
     <tr>
-        <td valign="top" class="left-bar" style="padding: 2em; width: 50%;"> 
+        <td valign="top" class="left-bar" style="padding: 2em; width: 20rem;"> 
             <a href="#" style="text-decoration: none; font-weight: bold;">Revisions</a>
             <h2 style="font-family: Arial, sans-serif;">Site Map</h2>
             <ul class="left-bar-list" style="padding-left: 2rem;">
