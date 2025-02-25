@@ -1,8 +1,7 @@
 
-
 <table border="1" cellpadding="0" cellspacing="0"  class="container" style="font-size: 10px;"> 
     <tr>
-        <td style="text-align: left; padding: 2em; border-bottom: 1px solid darkgray;">
+        <td style="text-align: left; padding: 2em;">
             <h1 style="font-family: Arial, sans-serif; margin: 0; padding: 0;">GuessWork</h1>
             <br/>
             <p class="target-version" style="font-family: Arial, sans-serif; font-weight: bold; margin: 0; padding: 0;">
@@ -12,7 +11,7 @@
         </td>
     </tr>  
     <tr>
-        <td valign="top" class="left-bar" style="padding: 2em; border-right: 1px solid darkgray;"> 
+        <td valign="top" class="left-bar" style="padding: 2em;"> 
             <a href="#" style="text-decoration: none; font-weight: bold;">Revisions</a>
             <h2 style="font-family: Arial, sans-serif;">Site Map</h2>
             <ul class="left-bar-list" style="padding-left: 2rem;">
@@ -75,37 +74,37 @@
         </td>
         <td valign="top" class="right-bar" style="padding: 2em">
             <h2 style="font-family: Arial, sans-serif;">Revisions</h2>
-            <table style="border-collapse: collapse; margin-top: 10px;">
+            <table border="1" cellpadding="1" cellspacing="0" style="border-collapse: collapse; margin-top: 10px;">
                 <thead>
                     <tr>
-                        <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Revision Date</th>
-                        <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Document Version</th>
-                        <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Description</th>
-                        <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Tracking Notes</th>
-                        <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Approved By</th>
+                        <th style="padding: 1em; text-align: left;">Revision Date</th>
+                        <th style="padding: 1em; text-align: left;">Document Version</th>
+                        <th style="padding: 1em; text-align: left;">Description</th>
+                        <th style="padding: 1em; text-align: left;">Tracking Notes</th>
+                        <th style="padding: 1em; text-align: left;">Approved By</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">2025-02-25</td>
-                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">v1.0.0</td>
-                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">Initial Document Version</td>
-                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">N/A</td>
-                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
+                        <td style="padding: 1em; text-align: left;">2025-02-25</td>
+                        <td style="padding: 1em; text-align: left;">v1.0.0</td>
+                        <td style="padding: 1em; text-align: left;">Initial Document Version</td>
+                        <td style="padding: 1em; text-align: left;">N/A</td>
+                        <td style="padding: 1em; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
                     </tr>
                     <tr>
-                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">2025-02-25</td>
-                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">v1.0.1</td>
-                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">Fixed Styling Problem</td>
-                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">N/A</td>
-                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
+                        <td style="padding: 1em; text-align: left;">2025-02-25</td>
+                        <td style="padding: 1em; text-align: left;">v1.0.1</td>
+                        <td style="padding: 1em; text-align: left;">Fixed Styling Problem</td>
+                        <td style="padding: 1em; text-align: left;">N/A</td>
+                        <td style="padding: 1em; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
                     </tr>
                 </tbody>
             </table>
         </td>
     </tr>
     <tr>
-        <td colspan="2" align="center" class="footer" style="text-align: center; padding: 1em; border: 1px solid darkgray; border-top: 1px solid darkgray;">
+        <td colspan="2" align="center" class="footer" style="text-align: center; padding: 1em;">
             <p style="font-family: Arial, sans-serif;">&copy; 2025 KnightVision</p>
         </td>
     </tr>
