@@ -7,10 +7,10 @@ Target: GW.010.001
 <table border="1" cellpadding="0" cellspacing="0" style="width: 80%; font-size: 10px;"> 
     <tr>
         <td valign="top" style="width: 100%;"> 
-            <p><a href="#" style="text-decoration: none; font-weight: bold;">Revisions</a></p>
+            <span><a href="#" style="text-decoration: none; font-weight: bold;">Revisions</a></p>
             <h2 style="font-family: Arial, sans-serif;">Site Map</h2>
-            <p><a href="docs/homepage.md" style="text-decoration: none; font-weight: bold;">Homepage</a></p>
-            <p><a href="docs/network-status-dialog.md" style="text-decoration: none; font-weight: bold;">Network Status Dialog</a></p>
+            <span><a href="docs/homepage.md" style="text-decoration: none; font-weight: bold;">Homepage</a></span>
+            <span><a href="docs/network-status-dialog.md" style="text-decoration: none; font-weight: bold;">Network Status Dialog</a></span>
             <span>Authentication</span>
             <ul style="padding-left: 30px;">
                 <li><a href="docs/authentication/main-menu.md" style="text-decoration: none; font-weight: bold;">Main Menu</a></li>
