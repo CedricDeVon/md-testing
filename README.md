@@ -6,11 +6,11 @@ Target: GW.010.001
 <br/>
 <table border="1" cellpadding="0" cellspacing="0" style="width: 80%; font-size: 10px;"> 
     <tr>
-        <td valign="top" style="width: 100%;"> 
-            <span><a href="#" style="text-decoration: none; font-weight: bold;">Revisions</a></p>
+        <td valign="top" style="padding: 20px; width: 70%;"> 
+            <p><a href="#" style="text-decoration: none; font-weight: bold;">Revisions</a></p>
             <h2 style="font-family: Arial, sans-serif;">Site Map</h2>
-            <span><a href="docs/homepage.md" style="text-decoration: none; font-weight: bold;">Homepage</a></span>
-            <span><a href="docs/network-status-dialog.md" style="text-decoration: none; font-weight: bold;">Network Status Dialog</a></span>
+            <p><a href="docs/homepage.md" style="text-decoration: none; font-weight: bold;">Homepage</a></p>
+            <p><a href="docs/network-status-dialog.md" style="text-decoration: none; font-weight: bold;">Network Status Dialog</a></p>
             <span>Authentication</span>
             <ul style="padding-left: 30px;">
                 <li><a href="docs/authentication/main-menu.md" style="text-decoration: none; font-weight: bold;">Main Menu</a></li>
@@ -53,9 +53,9 @@ Target: GW.010.001
                 <li><a href="docs/chess-clock/reset-settings-dialog.md" style="text-decoration: none; font-weight: bold;">Reset Settings Dialog</a></li>
             </ul>
         </td>
-        <td valign="top" style="width: 70px; padding: 30px;">
+        <td valign="top" style="width: 30%; padding: 30px;">
             <h2 style="font-family: Arial, sans-serif;">Revisions</h2>
-            <table border="1">
+            <table border="1" cellpadding="1" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <thead>
                     <tr>
                         <th>Revision Date</th>
@@ -71,14 +71,14 @@ Target: GW.010.001
                         <td>v1.0.0</td>
                         <td>Initial Document Version</td>
                         <td>N/A</td>
-                        <td>Araneta, Vaughn Cedric L. <em>Project Manager</em></td>
+                        <td>Araneta, Vaughn Cedric L. (Project Manager)</td>
                     </tr>
                     <tr>
                         <td>2025-02-26</td>
                         <td>v1.0.1</td>
                         <td>Fixed Styling Problem</td>
                         <td>N/A</td>
-                        <td>Araneta, Vaughn Cedric L. <em>Project Manager</em></td>
+                        <td>Araneta, Vaughn Cedric L. (Project Manager)</td>
                     </tr>
                 </tbody>
             </table>
