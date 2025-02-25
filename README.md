@@ -75,28 +75,32 @@
         </td>
         <td valign="top" class="right-bar" style="width: 30%; padding: 2em">
             <h2 style="font-family: Arial, sans-serif;">Revisions</h2>
-            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
-                <tr>
-                    <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Revision Date</th>
-                    <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Document Version</th>
-                    <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Description</th>
-                    <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Tracking Notes</th>
-                    <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Approved By</th>
-                </tr>
-                <tr>
-                    <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">2025-02-25</td>
-                    <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">v1.0.0</td>
-                    <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">Initial Document Version</td>
-                    <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">N/A</td>
-                    <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
-                </tr>
-                <tr>
-                    <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">2025-02-25</td>
-                    <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">v1.0.1</td>
-                    <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">Fixed Styling Problem</td>
-                    <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">N/A</td>
-                    <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
-                </tr>
+            <table style="width: 50%; border-collapse: collapse; margin-top: 10px;">
+                <thead>
+                    <tr>
+                        <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Revision Date</th>
+                        <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Document Version</th>
+                        <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Description</th>
+                        <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Tracking Notes</th>
+                        <th style="padding: 1em; border: 1px solid darkgray; text-align: left;">Approved By</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">2025-02-25</td>
+                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">v1.0.0</td>
+                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">Initial Document Version</td>
+                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">N/A</td>
+                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">2025-02-25</td>
+                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">v1.0.1</td>
+                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">Fixed Styling Problem</td>
+                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">N/A</td>
+                        <td style="padding: 1em; border: 1px solid darkgray; text-align: left;">Araneta, Vaughn Cedric L. (Project Manager)</td>
+                    </tr>
+                </tbody>
             </table>
         </td>
     </tr>
