@@ -66,7 +66,7 @@ Target: GW.010.001
         </li>
         </td>
         <td valign="top" class="right-bar" style="width: 30%; padding: 30px;">
-            <h2 style="font-family: Arial, sans-serif; width: 50%;">Revisions</h2>
+            <h2 style="font-family: Arial, sans-serif; width: 10px;">Revisions</h2>
             <table border="1" cellpadding="1" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-top: 10px;">
                 <thead>
                     <tr>
