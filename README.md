@@ -1,16 +1,12 @@
 
 
+<h1 style="font-family: Arial, sans-serif; margin: 0; padding: 0;">GuessWork</h1>
+<br/>
+<p class="target-version" style="font-family: Arial, sans-serif; font-weight: bold; margin: 0; padding: 0;">
+Target: GW.010.001
+</p>
+<br/>
 <table border="1" cellpadding="0" cellspacing="0" class="container" style="font-size: 10px; width: 80%;"> 
-    <tr>
-        <td style="text-align: left; padding: 20px; border: 0;">
-            <h1 style="font-family: Arial, sans-serif; margin: 0; padding: 0;">GuessWork</h1>
-            <br/>
-            <p class="target-version" style="font-family: Arial, sans-serif; font-weight: bold; margin: 0; padding: 0;">
-            Target: GW.010.001
-            </p>
-            <br/>
-        </td>
-    </tr>  
     <tr>
         <td valign="top" class="left-bar" style="padding: 20px; width: 70%;"> 
         <a href="#" style="text-decoration: none; font-weight: bold;">Revisions</a>
