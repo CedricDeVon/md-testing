@@ -71,14 +71,14 @@ Target: GW.010.001
                         <td>v1.0.0</td>
                         <td>Initial Document Version</td>
                         <td>N/A</td>
-                        <td>Araneta, Vaughn Cedric L. (Project Manager)</td>
+                        <td>Araneta, Vaughn Cedric L. <em>Project Manager</em>em></td>
                     </tr>
                     <tr>
                         <td>2025-02-26</td>
                         <td>v1.0.1</td>
                         <td>Fixed Styling Problem</td>
                         <td>N/A</td>
-                        <td>Araneta, Vaughn Cedric L. (Project Manager)</td>
+                        <td>Araneta, Vaughn Cedric L. <em>Project Manager</em>em></td>
                     </tr>
                 </tbody>
             </table>
