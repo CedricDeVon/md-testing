@@ -55,7 +55,7 @@ Target: GW.010.001
         </td>
         <td valign="top" style="width: 70px; padding: 30px;">
             <h2 style="font-family: Arial, sans-serif;">Revisions</h2>
-            <table border="1" cellpadding="1" cellspacing="0" style="width: 100px; margin-top: 10px;">
+            <table border="1" cellpadding="1" cellspacing="0" style="width: 100px;">
                 <thead>
                     <tr>
                         <th>Revision Date</th>
