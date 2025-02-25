@@ -86,7 +86,9 @@ Target: GW.010.001
     </tr>
     <tr>
         <td colspan="2" align="center" style="text-align: center; padding: 10px;">
+            <br/>
             <p style="font-family: Arial, sans-serif;">&copy; 2025 KnightVision</p>
+            <br/>
         </td>
     </tr>
 </table>
